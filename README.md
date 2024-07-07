@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎯  &nbsp; I'm a software engineer
+- 🎯  &nbsp; I'm currently a student attaining a programming degree
 - 🔭  &nbsp; I'm from 🇨🇦
 - 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and many more
 - 💬 &nbsp; Check out my resume on the sidebar! 
