@@ -2,7 +2,7 @@
 
 - 🎯  &nbsp; Currently a student, attaining a programming degree
 - 🔭  &nbsp; I'm from 🇨🇦
-- 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and many more
+- 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and other languages
 - 💬 &nbsp; Check out my resume on the sidebar! 
 
 <!--
