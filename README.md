@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🎯  &nbsp; I'm a software engineer
+- 🔭  &nbsp; I'm from 🇨🇦
+- 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and many more
+- 💬 &nbsp; Check out my resume on the sidebar! 
 
 <!--
 **janaksk/janaksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
