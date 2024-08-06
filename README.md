@@ -5,7 +5,7 @@
 - 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and other languages
 - 💬 &nbsp; Check out my resume on the sidebar!
 
-Play my school project video game, Gem Dash: [Play Now]([https://example.github.io/project/](https://janaksk.github.io/GemDashNoMultiplayer/))
+Play my school project video game, Gem Dash: https://janaksk.github.io/GemDashNoMultiplayer/
 
 <!--
 **janaksk/janaksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
