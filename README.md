@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎯  &nbsp; Currently a student, attaining a programming degree
+- 🎯  &nbsp; New Graduate, looking for career in computer science
 - 🔭  &nbsp; I'm from 🇨🇦
 - 🤓  &nbsp; Intererested in Java, C++, Python, PHP, and other languages
 - 💬 &nbsp; Check out my resume on the sidebar!
